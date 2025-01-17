@@ -14,6 +14,7 @@ WHICH WILL RENDER YOUR COMPUTER VERY INSECURURE WHILE RUNNING! IT IS HIGHLY
 RECOMMENDED TO COMPLETELY DISCONNECT YOUR COMPUTER FROM ALL NETWORKS WHILE
 RUNNING!
 
+Some new notes 
 Notes:
  - Google Chrome performs filtering for reflected XSS attacks. These attacks
    will not work unless chrome is run with the argument 
